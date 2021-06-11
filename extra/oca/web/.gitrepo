@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/oca/web
+	branch = 14.0
+	commit = d89c7824fae1a11b1fe0228b462d7e54419ff4fa
+	parent = 6c285dca994e0a45376ce01f509d92fe7cb8ee0d
+	method = merge
+	cmdver = 0.4.1
