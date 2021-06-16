@@ -3,7 +3,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
-    'name': 'odoo-sh-test Profile',
+    'name': 'odoo-sh-test Profiler',
     'version': '14.0.1.0.0',
     'category': 'Custom',
     'description': """Profile for odoo-sh-test""",
